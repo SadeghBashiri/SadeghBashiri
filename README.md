@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Sadegh</h1>
 
-<h1 align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/799126aafe0608c8dee372888c3862ee34d8f3c1c35d0a7a4cc12f408e5dc37d/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d463730303030266c696e65733d48692b54686572652b254630253946253931253842"><img src="https://camo.githubusercontent.com/799126aafe0608c8dee372888c3862ee34d8f3c1c35d0a7a4cc12f408e5dc37d/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d463730303030266c696e65733d48692b54686572652b254630253946253931253842" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=F70000&amp;lines=Hi+There+%F0%9F%91%8B" style="max-width: 100%;"></a></h1>
-
 <h3 align="center">Java Back-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeghbashiri&label=Profile%20views&color=0e75b6&style=flat" alt="sadeghbashiri" /> </p>
