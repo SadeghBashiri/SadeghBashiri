@@ -45,3 +45,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadeghbashiri&show_icons=true&locale=en" alt="sadeghbashiri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadeghbashiri&" alt="sadeghbashiri" /></p>
+
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" style="max-width: 100%;" width="500" height="320" align="right"></a></p>
