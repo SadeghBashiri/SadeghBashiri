@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Sadegh</h1>
+<h1 align="center">Hi 👋, I'm Sadegh</h1> :zap:
 
 <h3 align="center">Java Back-End Developer</h3>
 
